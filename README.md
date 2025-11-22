@@ -16,3 +16,8 @@
 ```bash
 git clone https://github.com/aasemikov/rpc-grpc-protobuf.git
 cd rpc-grpc-protobuf
+```
+Запуск докера
+```bash
+docker compose up -d
+```
